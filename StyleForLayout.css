@@ -1,0 +1,26 @@
+div {
+    margin-bottom: 15px;
+    padding: 10px 25px 10px 25px;
+    background-color: yellow;
+}
+
+.left-column {
+    width: 50%;
+    min-height: 100px;
+    background-color: #DADADA;
+    float: left;
+    position: fixed;
+}
+
+.right-column {
+    width: 25%;
+    min-height: 100px;
+    background-color: green;
+    float: right;
+}
+
+.footer {
+    clear: both;
+    position: fixed;
+    bottom: 0;
+}
